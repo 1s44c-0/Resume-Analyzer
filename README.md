@@ -27,15 +27,15 @@ This is a simple Django web application that allows users to upload their resume
 
 ## 🚀 Live Demo
 
-> 🔗 [https://your-deployed-url.onrender.com](https://your-deployed-url.onrender.com) (replace after deployment)
+> 🔗 [https://your-deployed-url.onrender.com](https://your-deployed-url.onrender.com)
 
 ---
 
 ## 📷 Screenshots
 
-<img src="https://via.placeholder.com/800x400?text=Upload+Resume+Page" alt="Upload Page Screenshot" />
+<img src="/resume_analyzer/image1.png/800x400?text=Upload+Resume+Page" alt="Upload Page Screenshot" />
 <br/>
-<img src="https://via.placeholder.com/800x400?text=Analysis+Result" alt="Results Page Screenshot" />
+<img src="/resume_analyzer/image2.png/800x400?text=Analysis+Result" alt="Results Page Screenshot" />
 
 ---
 
