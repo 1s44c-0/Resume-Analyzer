@@ -35,14 +35,14 @@ This is a simple Django web application that allows users to upload their resume
 
 <img src="images/image1.png" alt="Upload Page Screenshot" width="800" height="400" />
 <br />
-<img src="images/image2.png" alt="Results Page Screenshot" width="800" height="400" />
+<img src="images/image2.png" alt="Results Page Screenshot" width="800" />
 
 ---
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/resume-analyzer.git
+git clone https://github.com/1s44c-0/Resume-Analyzer.git
 cd resume-analyzer
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
