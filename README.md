@@ -33,9 +33,9 @@ This is a simple Django web application that allows users to upload their resume
 
 ## 📷 Screenshots
 
-<img src="/resume_analyzer/image1.png/800x400?text=Upload+Resume+Page" alt="Upload Page Screenshot" />
-<br/>
-<img src="/resume_analyzer/image2.png/800x400?text=Analysis+Result" alt="Results Page Screenshot" />
+<img src="images/image1.png" alt="Upload Page Screenshot" width="800" height="400" />
+<br />
+<img src="images/image2.png" alt="Results Page Screenshot" width="800" height="400" />
 
 ---
 
