@@ -27,7 +27,7 @@ This is a simple Django web application that allows users to upload their resume
 
 ## 🚀 Live Demo
 
-> 🔗 [https://your-deployed-url.onrender.com](https://your-deployed-url.onrender.com)
+> 🔗 [https://resume-analyzer-o735.onrender.com/](https://resume-analyzer-o735.onrender.com/)
 
 ---
 
